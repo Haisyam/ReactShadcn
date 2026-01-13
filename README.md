@@ -231,3 +231,5 @@ Lalu tambahkan komponen ini di tempat yang dibutuhkan.
 - ✅ Tersimpan di local storage dengan key `vite-ui-theme`
     
 - ✅ Berfungsi saat reload dan berpindah halaman
+
+- ✅ Anjay Gabut Ajja broowww
