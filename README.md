@@ -194,7 +194,7 @@ Buat komponen untuk toggle tema:
 `src/components/ThemeChange.jsx`
  
 
-Berikut [contoh](https://github.com/Mutiur03/ThemeChange/blob/main/src/components/ThemeChange.jsx)
+Berikut [contoh](https://github.com/Haisyam/ReactShadcn/blob/main/src/components/ThemeChange.jsx)
 
 Lalu tambahkan komponen ini di tempat yang dibutuhkan.
 
